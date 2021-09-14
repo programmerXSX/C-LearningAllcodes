@@ -1,0 +1,5 @@
+﻿  addEmployeeInformation.cpp
+  employeeCategory.cpp
+  sortByNumber.cpp
+  正在生成代码...
+D:\vs2019\C++项目\018 职工管理系统\018 职工管理系统\employeeCategory.cpp(6): error C4716: “Staff::operator=”: 必须返回一个值
